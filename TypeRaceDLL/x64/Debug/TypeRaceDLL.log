@@ -1,0 +1,8 @@
+﻿  AirRace.cpp
+  GroundRace.cpp
+  MixedRace.cpp
+  TypeRace.cpp
+  Создание кода...
+D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\TypeRaceDLL\TypeRace.cpp(76): warning C4715: TypeRace::Transfarmation: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\TypeRaceDLL.lib и объект D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\TypeRaceDLL.exp
+  TypeRaceDLL.vcxproj -> D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\TypeRaceDLL.dll

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\TypeRaceDLL.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\VehiclesDLL.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\CourseProject2.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

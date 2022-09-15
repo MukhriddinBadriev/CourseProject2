@@ -1,0 +1,4 @@
+﻿  CourseProject2.cpp
+D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\VehiclesDLL\Vehicles.h(18,9): warning C4251: Vehicles::name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Vehicles"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  CourseProject2.vcxproj -> D:\DesktopD\C++\Netology\Homework Netology\Blok_3\CourseProject 2\CourseProject2\x64\Debug\CourseProject2.exe
